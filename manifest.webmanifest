@@ -1,11 +1,11 @@
 {
-    "name": "TonConnectDemo",
-    "short_name": "TonConnectDemo",
+    "name": "C# TonConnect",
+    "short_name": "C# TonConnect",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "Demo",
+    "description": "",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",

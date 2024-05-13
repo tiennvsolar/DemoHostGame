@@ -38,13 +38,13 @@ window.addEventListener("load", function () {
   var buildUrl = "Build";
   var loaderUrl = buildUrl + "/TonBuild.loader.js";
   var config = {
-    dataUrl: buildUrl + "/TonBuild.data",
-    frameworkUrl: buildUrl + "/TonBuild.framework.js",
-    codeUrl: buildUrl + "/TonBuild.wasm",
+    dataUrl: buildUrl + "/TonBuild.data.unityweb",
+    frameworkUrl: buildUrl + "/TonBuild.framework.js.unityweb",
+    codeUrl: buildUrl + "/TonBuild.wasm.unityweb",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
-    productName: "TonConnectDemo",
-    productVersion: "0.1",
+    productName: "C# TonConnect",
+    productVersion: "1.0",
     showBanner: unityShowBanner,
   };
 
